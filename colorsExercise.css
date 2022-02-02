@@ -1,15 +1,32 @@
 h1 {
-   color: blue
+    color: #0000ff;
+    
+    background-color: indigo
 }
-h2 {
-    color: #15C;
+h2 {   
+    color:darkviolet;       
+
+    background-color: lemonchiffon;
 }
-h3 {
-    color: #dfdfdf
+h3 {    
+    color:#dfd44d;
+    
+    background-color: lightcoral;
 }
 h4 {
-  color: rgb(0,0,255)
-}
+    color:rgb(0,0,255);     
+    
+    background-color: lightgreen;               
+} 
 h5 {
-    color: rgba(226, 250, 1,0.7);
-}
+    color: rgba(211,222,3,0.7);
+
+    background-color: limegreen;
+}  
+h6 {   color:#0009;
+
+    background-color: mediumpurple;}
+
+p {   color: #12877299; 
+
+    background-color: mintcream;}
